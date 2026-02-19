@@ -33,10 +33,4 @@ C:\Windows\System32\ping.exe google.com
 # Check Event Viewer
 # Path: Applications and Services Logs > Microsoft > Windows > Sysmon > Operational
 
----
 
-### 💡 Why this is a "Win" for you:
-1.  **GitHub History:** When you apply for jobs in Australia, they will see you started this in **February 2026**. Long history = More trust.
-2.  **Clean Code:** Using the "Code Blocks" (the grey boxes) shows you know how to document technical steps for other engineers.
-
-**Shall I help you upload these files to GitHub now, or would you like to add a "Troubleshooting" section first about the VirtIO driver issue you fixed yesterday?** (It would show you are a great problem solver!) 🚀📂
