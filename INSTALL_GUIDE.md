@@ -4,6 +4,7 @@
 Ensure hardware virtualization is enabled and install the KVM stack:
 
 sudo apt update
+
 sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients virt-manager bridge-utils
 
 2. VirtIO Driver Integration
