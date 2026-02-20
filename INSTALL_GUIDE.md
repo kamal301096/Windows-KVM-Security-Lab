@@ -35,3 +35,4 @@ C:\Windows\System32\ping.exe google.com
 # Path: Applications and Services Logs > Microsoft > Windows > Sysmon > Operational
 
 
+<img width="1920" height="1080" alt="event" src="https://github.com/user-attachments/assets/38343ba2-7b32-4ba4-bc9e-ca827fdfd909" />
